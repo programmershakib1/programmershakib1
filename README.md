@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Front+end+Developer+%F0%9F%9A%80;Let’s create something amazing together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=MERN+Stack+Developer+%F0%9F%9A%80;Let’s create something amazing together!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -26,23 +26,18 @@
 
 ###
 
-<h1 align="left">Shakib AL Hasan</h1>
+<h1 align="center">Hi <img src="https://i.ibb.co.com/tHbZrZ5/hi.gif" width="50px" height="50px">, I'm Shakib</h1
 
 ###
 
-<h4 align="left">Frontend Developer</h4>
+<h3 align="center"> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">I am Shakib Al Hasan, a MERN stack web developer from Bangladesh. With a passion for writing clean code and creating responsive designs, I specialize in crafting seamless and interactive web experiences. Driven by enthusiasm for coding, I aspire to grow into a proficient full-stack developer and contribute to impactful solutions within the tech industry. Currently, I am balancing my academic pursuits with my journey as a developer, striving for growth and excellence. Beyond coding, I enjoy experimenting with new ideas and cherishing the simple joys of life.<br><br>- 🔭 I’m working as a Front-End Developer<br>- 📚 I'm currently learning Next.js</p>
 
 ###
-
-<p align="left">Hi, I’m Shakib Al Hasan, a passionate and dedicated Front-End Developer with a broad skill set in both front-end and back-end technologies. I love exploring new tech, solving problems, and continuously learning. I started my journey in tech despite not having a formal computer science background, and the ever-evolving nature of programming keeps me motivated. I’m currently balancing my academic studies with growing as a developer. Outside of coding, I enjoy experimenting with new things and appreciating life’s simple pleasures.<br><br>- 🔭 I’m working as a Front-End Developer<br>- 📚 I'm currently learning Next.js</p>
-
-###
-
-## 💻 Skills  
+  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -54,8 +49,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>  
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -77,6 +70,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=programmershakib1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmershakib1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
