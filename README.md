@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center">I am Shakib Al Hasan, a MERN stack web developer from Bangladesh. With a passion for writing clean code and creating responsive designs, I specialize in crafting seamless and interactive web experiences. Driven by enthusiasm for coding, I aspire to grow into a proficient full-stack developer and contribute to impactful solutions within the tech industry. Currently, I am balancing my academic pursuits with my journey as a developer, striving for growth and excellence. Beyond coding, I enjoy experimenting with new ideas and cherishing the simple joys of life.<br><br>- 🔭 I’m working as a Front-End Developer<br>- 📚 I'm currently learning Next.js</p>
+<p align="center">Hey there, I am Shakib Al Hasan. As a proficient 𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 , I specialize in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js. With a focus on building scalable, efficient, and responsive web solutions, I aim to deliver exceptional user experiences and impactful solutions. I am dedicated to writing clean, maintainable code while ensuring seamless integration of front-end and back-end technologies.In addition to front-end development with React, I am adept at back-end technologies such as Node.js and Express, allowing me to handle end-to-end project development. My goal is to continuously expand my skill set while contributing to the tech community by solving real-world problems through innovative and robust web applications.<br><br>- 🔭 I’m working as a Front-End Developer<br>- 📚 I'm currently learning Next.js</p>
 
 ###
   
