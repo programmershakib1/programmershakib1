@@ -3,11 +3,11 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=programmershakib1&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
+  <img src="https://komarev.com/ghpvc/?username=programmershakib1&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
 </div>
 
 ###
@@ -58,13 +58,9 @@
 
 ###
 
-###
-
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=programmershakib1&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
-
- ###
 
 ###
 
