@@ -64,8 +64,6 @@
 
 ###
 
-###
-
 <p align="center">Tools</p>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -85,10 +83,14 @@
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=programmershakib1&show_icons=true&theme=dark&locale" alt="GitHub Stats">
+</div>
+
+###
+
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=programmershakib1&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
 ###
-
