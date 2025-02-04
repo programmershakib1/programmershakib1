@@ -85,20 +85,9 @@
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=programmershakib1&show_icons=true&theme=dark&locale" alt="GitHub Stats">
-</div>
-
-###
-
-<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=programmershakib1&theme=dark" alt="GitHub Streak" />
   </a>
-</div>
-
-###
-
-<div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmershakib1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
