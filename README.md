@@ -38,6 +38,8 @@
 
 <p align="center">Hey there, I’m Shakib Al Hasan, a passionate 𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Bangladesh, with expertise in building full-stack web applications. I specialize in creating seamless, responsive solutions by integrating innovative front-end development with robust back-end architecture. With proficiency in both front-end technologies like React and back-end frameworks like Express and Node.js, I am a versatile developer who can manage the entire development lifecycle. I take pride in writing clean, efficient code and delivering scalable solutions that address real-world challenges.</p>
 
+<p>Contact : +8801516549530</p>
+
 <div>
   📚 I'm currently learning Next.js<br>
  🔭 I’m working as a MERN Stack Developer<br>
