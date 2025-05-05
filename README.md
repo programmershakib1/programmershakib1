@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=Shakib+Al+Hasan;%0A%0AMERN+Stack+Developer+%F0%9F%9A%80;%0A%0ALet’s+create+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=Shakib+Al+Hasan;%20%20%0AMERN+Stack+Developer+%F0%9F%9A%80;%20%20%0ALet%E2%80%99s+create+something+amazing+together!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -38,9 +38,7 @@
 
 <p align="center">Hey there, I’m Shakib Al Hasan, a passionate 𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Bangladesh, with expertise in building full-stack web applications. I specialize in creating seamless, responsive solutions by integrating innovative front-end development with robust back-end architecture. With proficiency in both front-end technologies like React and back-end frameworks like Express and Node.js, I am a versatile developer who can manage the entire development lifecycle. I take pride in writing clean, efficient code and delivering scalable solutions that address real-world challenges.</p>
 
-<p>Contact : +8801516549530</p>
-
-<div>
+<div align="center">
   📚 I'm currently learning Next.js<br>
  🔭 I’m working as a MERN Stack Developer<br>
  🎯 Goals: Make web applications that make life easy
